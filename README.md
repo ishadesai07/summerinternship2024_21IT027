@@ -38,7 +38,7 @@ During this internship, I developed a restaurant reservation website named "Food
     - Ensured consistency in layout and design across all pages.
     - Linked pages together using navigation menus.
 
-## 2️ Week 2: JavaScript and React
+## Week 2: JavaScript and React
 
 ### Day 1: JavaScript Basics
 
